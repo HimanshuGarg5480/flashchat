@@ -66,7 +66,7 @@ class _homepageState extends State<homepage> {
                       autocorrect: false,
                       enableSuggestions: false,
                       decoration:
-                          InputDecoration(hintText: 'enter your password'),
+                         // InputDecoration(hintText: 'enter your password'),
                     ),
                     TextButton(
                       onPressed: () async {
